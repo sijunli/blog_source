@@ -1,8 +1,11 @@
 ---
 title: 如何在vim中添加Alt键开头的快捷键映射
-toc: false
+toc: true
 date: 2016-06-15 23:34:25
 tags:
+- personal
+- wiki
+- vim
 ---
 
 ## 前面的话
