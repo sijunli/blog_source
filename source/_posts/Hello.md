@@ -1,7 +1,7 @@
 ---
 title: Hello
 date: 2016-06-06 01:25:56
-tags: personal
+tags: self
 ---
 # Hi, I'm Sijun Li
 
